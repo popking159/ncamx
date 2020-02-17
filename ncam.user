@@ -1,0 +1,7 @@
+# ncam.user generated automatically by NCAM 10.3
+# Read more: https://www.tunisia-sat.com/forums/threads/3539021/
+
+[account]
+user                          = user1
+au                            = 1
+group                         = 1,7,8
