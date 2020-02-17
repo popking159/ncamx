@@ -1,0 +1,8 @@
+# Ncam Emu_10.3
+NCAMX 10492 by MNASR
+
+[NEW_API_V1] 
+
+uninstall :
+/data/plugin/ncamx/*
+/data/plugin/ncamx
